@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://zootools.co/?ref=email-spell-checker-github">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://open-source.zootools.co/email-spell-checker/logo_email-spell-checker.png?raw=true" />
       <img src="https://open-source.zootools.co/email-spell-checker/logo_email-spell-checker.png?raw=true" width="456px" />
